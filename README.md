@@ -4,6 +4,10 @@
 - 💡 My passion it always has been create something useful for the people
 - 🤖 I would like to learn more about Machine Learning an AI
 
+## My Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizzoMartin&layout=compact)
 
-📫 **Contáctame**: Email (mailto:rizzolozanomartin@gmail.com)
+## 📫 Contact
+
+- 💌 Email: [rizzolozanomartin@gmail.com](mailto:rizzolozanomartin@gmail.com)
+- 💼 LinkedIn: [Martín Rizzo Lozano](https://www.linkedin.com/in/martín-rizzo-lozano/)

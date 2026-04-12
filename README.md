@@ -22,8 +22,11 @@ Data Engineer focused on building reliable data pipelines and working with large
 ### [Football Data Pipeline](https://github.com/rizzoMartin/football-pipeline)
 End-to-end data pipeline ingesting daily match results, standings and top scorers from the 5 major European leagues. Built with **PySpark**, **Delta Lake** (Medallion architecture) and orchestrated with **Apache Airflow** on Databricks.
  
-### [Sentiment Analysis with ML](https://github.com/rizzoMartin/MachineLearning1)
-Scraped and cleaned product reviews, then trained and evaluated multiple **machine learning algorithms and neural networks** for sentiment classification. Covers the full pipeline from raw data to model evaluation.
+### [Sentiment Analysis — Part 1](https://github.com/rizzoMartin/MachineLearning1)
+Scraped hotel reviews from Booking and Hotels.com, cleaned the data and trained classical ML models (Naive Bayes, Logistic Regression, SVM) for sentiment classification.
+ 
+### [Sentiment Analysis — Part 2](https://github.com/rizzoMartin/MachineLearning2)
+Extended the project with deep learning models (CNN, RNN), distributed processing using **Dask** and **MapReduce**, and storage in **MongoDB**.
  
 ### [Language Learning Mobile App](https://github.com/rizzoMartin/Mobile-App)
 Full-stack mobile application for language learning built with **React Native**, **Express** and **MySQL**.
@@ -39,5 +42,5 @@ Full-stack mobile application for language learning built with **React Native**,
  
 ## 📊 GitHub stats
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizzoMartin&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizzoMartin&layout=compact)
  

@@ -1,6 +1,6 @@
 # Hi, I'm Martín 👋
  
-Data Engineer focused on building reliable data pipelines and working with large-scale data processing. Currently working as a data consultant and actively deepening my expertise in data engineering, cloud platforms and ML.
+Data Engineer focused on building reliable data pipelines and working with large-scale data processing. Currently working as a data consultant in the banking sector and actively deepening my expertise in data engineering and cloud platforms.
  
 ---
  

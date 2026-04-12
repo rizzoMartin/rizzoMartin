@@ -38,9 +38,3 @@ Full-stack mobile application for language learning built with **React Native**,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martín-rizzo-lozano/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rizzolozanomartin@gmail.com)
  
----
- 
-## 📊 GitHub stats
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizzoMartin&layout=compact)
- 

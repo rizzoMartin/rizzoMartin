@@ -19,7 +19,7 @@ Data Engineer focused on building reliable data pipelines and working with large
  
 ## 🚀 Featured projects
  
-### [Football Data Pipeline](https://github.com/rizzoMartin-organization/football-pipeline)
+### [Football Data Pipeline](https://github.com/rizzoMartin-organization/football-data-pipeline)
 End-to-end data pipeline ingesting daily match results, standings and top scorers from the 5 major European leagues. Built with **PySpark**, **Delta Lake** (Medallion architecture) and orchestrated with **Apache Airflow** on Databricks.
  
 ### [Sentiment Analysis — Part 1](https://github.com/rizzoMartin/MachineLearning1)
